@@ -1,0 +1,15 @@
+C:\Users\nogal\Documents\NetBeansProjects\nogales_hotel\src\main\java\com\emergentes\entidades\Habitacion.java
+C:\Users\nogal\Documents\NetBeansProjects\nogales_hotel\src\main\java\com\emergentes\controladores\ReservaJpaController.java
+C:\Users\nogal\Documents\NetBeansProjects\nogales_hotel\src\main\java\com\emergentes\controladores\HabitacionJpaController.java
+C:\Users\nogal\Documents\NetBeansProjects\nogales_hotel\src\main\java\com\emergentes\controladores\ClienteJpaController.java
+C:\Users\nogal\Documents\NetBeansProjects\nogales_hotel\src\main\java\com\emergentes\entidades\Cliente.java
+C:\Users\nogal\Documents\NetBeansProjects\nogales_hotel\src\main\java\com\emergentes\BEAN\BeanCliente.java
+C:\Users\nogal\Documents\NetBeansProjects\nogales_hotel\src\main\java\com\emergentes\BEAN\BeanReserva.java
+C:\Users\nogal\Documents\NetBeansProjects\nogales_hotel\src\main\java\com\emergentes\controladores\exceptions\PreexistingEntityException.java
+C:\Users\nogal\Documents\NetBeansProjects\nogales_hotel\src\main\java\com\emergentes\controladores\exceptions\IllegalOrphanException.java
+C:\Users\nogal\Documents\NetBeansProjects\nogales_hotel\src\main\java\com\emergentes\controladores\exceptions\NonexistentEntityException.java
+C:\Users\nogal\Documents\NetBeansProjects\nogales_hotel\src\main\java\com\emergentes\BEAN\BeanHabitacion.java
+C:\Users\nogal\Documents\NetBeansProjects\nogales_hotel\src\main\java\com\emergentes\servlet\habitacionesServlet.java
+C:\Users\nogal\Documents\NetBeansProjects\nogales_hotel\src\main\java\com\emergentes\servlet\clientesServlet.java
+C:\Users\nogal\Documents\NetBeansProjects\nogales_hotel\src\main\java\com\emergentes\entidades\Reserva.java
+C:\Users\nogal\Documents\NetBeansProjects\nogales_hotel\src\main\java\com\emergentes\servlet\reservaServlet.java
